@@ -1,0 +1,32 @@
+{
+    "id": "325e592a-0709-4488-bb50-c0bcc7df9abd",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "325e592a-0709-4488-bb50-c0bcc7df9abd",
+    "children": [
+        "c8f73564-0f37-4f10-96a9-7a30c5c5f2dd",
+        "e09a4d37-3cc1-423d-9b00-0bbc941411f8",
+        "7c5dfdd5-4e38-4a40-ac4d-8b42d45c59d4",
+        "02f86ba5-f292-4456-863f-9f11d970247a",
+        "f9b3d2f1-be8a-435f-a9d5-4c35c23c9245",
+        "b0b76bd0-376b-47ca-86d4-c1e35a2af905",
+        "72e779ad-6139-46df-8876-cfeca5d50e27",
+        "6582061c-cc8f-43d9-a984-ebc62c17935b",
+        "adeb9f99-a08e-4ac4-8a0f-b5f0f925f4e9",
+        "d7ba0dc3-53c9-4a9b-a0ca-216d18c7c59a",
+        "31e9d543-b4ac-4b6c-8442-35dfe80f1003",
+        "3f84fbf4-e400-499b-a871-c1fa8ea61099",
+        "e2a9066f-03d0-4cc3-bd10-bfd9b804f6b6",
+        "e613985e-7297-4b08-b08b-dcd1680bfdaa",
+        "09db8840-6806-4c94-86c1-86041b8105f4",
+        "843b35af-8f42-4e8c-99cf-489e45a7786b",
+        "1633dcf7-84e1-4f71-b77d-0ea46b69f2a9",
+        "0cfaa44d-8eeb-43fe-a7da-3222daecf6e5",
+        "f390ef5e-6d5d-4fca-9b7d-b37e0a5a437e",
+        "5b1eeea9-c582-45fb-8e00-95d8f106e1a9"
+    ],
+    "filterType": "GMSprite",
+    "folderName": "PlayerSprites",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}
